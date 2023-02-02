@@ -10,7 +10,7 @@ namespace catalog
 {
     public class Startup
     {
-        // CHANGE THIS TO false WHEN MIGRATING TO AZURE SQL
+        // CHANGE THIS TO false WHEN MIGRATING TO AZURE SQL but now it is true as we are using inmemory db
         private bool useInMemory = true;
 
         public Startup(IConfiguration configuration)
