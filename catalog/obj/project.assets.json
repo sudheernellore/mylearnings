@@ -11260,11 +11260,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyEcomApp\\catalog\\catalog.csproj",
+      "projectUniqueName": "D:\\MyEcomApp\\catalog\\catalog.csproj",
       "projectName": "catalog",
-      "projectPath": "C:\\MyEcomApp\\catalog\\catalog.csproj",
+      "projectPath": "D:\\MyEcomApp\\catalog\\catalog.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\MyEcomApp\\catalog\\obj\\",
+      "outputPath": "D:\\MyEcomApp\\catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

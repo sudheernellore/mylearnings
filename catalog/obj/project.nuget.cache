@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bc707JD6JpL9jQXSo/NJzMId1yl+v/Bu2gT2prwvYWAyDxzkSrGyAVXt3rYyybiHoQlmfktL+ae8aBJ+kTd88A==",
+  "dgSpecHash": "7Wb7Nmx1KA0ukKwF2OdKXyRkW/wV2NxVGaXswmhT+NwUsdrSy/avmPeH9hIWlNB9wyEHGtox3ua1K0QPpz/1gg==",
   "success": true,
-  "projectFilePath": "C:\\MyEcomApp\\catalog\\catalog.csproj",
+  "projectFilePath": "D:\\MyEcomApp\\catalog\\catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
